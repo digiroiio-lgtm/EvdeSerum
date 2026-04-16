@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://evdeserumantalya.com/</loc></url>
-  <url><loc>https://evdeserumantalya.com/evde-serum-antalya</loc></url>
-  <url><loc>https://evdeserumantalya.com/evde-vitamin-serum</loc></url>
-  <url><loc>https://evdeserumantalya.com/evde-atom-serum</loc></url>
-  <url><loc>https://evdeserumantalya.com/evde-hemsire</loc></url>
-  <url><loc>https://evdeserumantalya.com/antalya-konyaalti-evde-serum</loc></url>
-  <url><loc>https://evdeserumantalya.com/antalya-lara-evde-serum</loc></url>
-  <url><loc>https://evdeserumantalya.com/antalya-muratpasa-evde-serum</loc></url>
-  <url><loc>https://evdeserumantalya.com/fiyatlar</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog/evde-serum-nedir</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog/serum-faydalari</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog/evde-serum-guvenli-mi</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog/kimler-serum-almali</loc></url>
-  <url><loc>https://evdeserumantalya.com/blog/antalya-evde-serum-fiyatlari</loc></url>
+  <url><loc>https://evdeserumantalya.com/evde-serum-antalya/</loc></url>
+  <url><loc>https://evdeserumantalya.com/evde-vitamin-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/evde-atom-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/evde-hemsire/</loc></url>
+  <url><loc>https://evdeserumantalya.com/antalya-konyaalti-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/antalya-lara-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/antalya-muratpasa-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/fiyatlar/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/</loc></url>
+  <!-- Cluster 1: Bilgilendirici -->
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-nedir/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/serum-ne-ise-yarar/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/serum-faydalari/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-guvenli-mi/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/kimler-serum-almali/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-kac-dakika-surer/</loc></url>
+  <!-- Cluster 2: Satışa Yakın -->
+  <url><loc>https://evdeserumantalya.com/blog/antalya-evde-serum-fiyatlari/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/antalyada-evde-serum-fiyati/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-ucretleri-neye-gore-degisir/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-mu-hastane-mi/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-almak-mantikli-mi/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/en-iyi-evde-serum-hizmeti-nasil-secilir/</loc></url>
+  <!-- Cluster 3: Local SEO -->
+  <url><loc>https://evdeserumantalya.com/blog/konyaalti-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/lara-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/muratpasa-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/kepez-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/belek-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/dosemealti-evde-serum/</loc></url>
+  <!-- Cluster 4: Medical Authority -->
+  <url><loc>https://evdeserumantalya.com/blog/hangi-durumlarda-serum-takilir/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/serum-yan-etkileri/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/vitamin-serum-icerikleri/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/atom-serum-nedir/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/serum-sonrasi-dikkat/</loc></url>
+  <!-- Cluster 5: Long-Tail SEO -->
+  <url><loc>https://evdeserumantalya.com/blog/evde-serum-taktirmak-guvenli-mi/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/724-evde-serum-antalya/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/ayni-gun-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/evde-hemsire-ile-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/dehidrasyon-evde-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/vitamin-eksikligi-ve-serum/</loc></url>
+  <url><loc>https://evdeserumantalya.com/blog/bagisiklik-zayifliginda-serum/</loc></url>
 </urlset>
